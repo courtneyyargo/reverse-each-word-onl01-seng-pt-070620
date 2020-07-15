@@ -7,4 +7,6 @@ def reverse_each_word(phrase)
   reverse_array.join(" ")
 end
 
+
+
 .collect will automatically creat a new array (get rid of reverse_array) and automatically return it but it won't join it for you in the end 
